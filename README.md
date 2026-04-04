@@ -1,16 +1,34 @@
-## Hi there 👋
+# Bruno Gomes
 
-<!--
-**brunobadac/BrunoBadac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Technical Artist with a background in VFX, compositing, and Unreal Engine.  
+Currently studying Software Development in the UK, focusing on Python, C++, and pipeline tools.
 
-Here are some ideas to get you started:
+## Interests
+- Unreal Engine
+- Real-time workflows
+- Pipeline tools and automation
+- Technical Art
+- Immersive and interactive experiences
+- VFX and real-time pipelines
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- Python
+- C++
+- Unreal Engine (Blueprints, Niagara, Sequencer)
+- Git / Version Control
+- Perforce
+- Pipeline Workflows
+- Automation Tools
+- Nuke
+- After Effects
+
+## Projects
+I am currently working on:
+- Unreal Engine Interactive Environment
+- Niagara Audio Reactive FX
+- Project Structure Generator (Python)
+- Unreal Asset Renamer Tool (Python)
+
+## Contact
+London, UK  
+Email: brunobadac@gmail.com
