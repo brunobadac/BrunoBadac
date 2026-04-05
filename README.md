@@ -22,6 +22,14 @@ Currently studying Software Development in the UK, focusing on Python, C++, and 
 - Nuke
 - After Effects
 
+## Tools & Technologies
+![Python](https://img.shields.io/badge/Python-blue)
+![Unreal Engine](https://img.shields.io/badge/Unreal-Engine-black)
+![C++](https://img.shields.io/badge/C++-blue)
+![Git](https://img.shields.io/badge/Git-Version_Control-orange)
+![Pipeline](https://img.shields.io/badge/Pipeline-Tools-green)
+![Technical Art](https://img.shields.io/badge/Technical-Art-purple)
+
 ## Featured Projects
 - Project Structure Generator – Python pipeline tool for creating project folder structures
 - Unreal Asset Renamer – Python tool for Unreal naming conventions
