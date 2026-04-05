@@ -1,15 +1,6 @@
 # Bruno Gomes
 
-Technical Artist with a background in VFX, compositing, and Unreal Engine.  
-Currently studying Software Development in the UK, focusing on Python, C++, and pipeline tools.
-
-## Interests
-- Unreal Engine
-- Real-time workflows
-- Pipeline tools and automation
-- Technical Art
-- Immersive and interactive experiences
-- VFX and real-time pipelines
+Technical Artist with a background in VFX, compositing, and Unreal Engine, currently studying Software Development in the UK. Interested in pipeline tools, automation, real-time workflows, and immersive technologies.
 
 ## Skills
 - Python
@@ -31,13 +22,22 @@ Currently studying Software Development in the UK, focusing on Python, C++, and 
 ![Technical Art](https://img.shields.io/badge/Technical-Art-purple)
 
 ## Featured Projects
-- Project Structure Generator – Python pipeline tool for creating project folder structures
-- Unreal Asset Renamer – Python tool for Unreal naming conventions
-- Render Queue Tool – Python automation tool for render workflows
-- File Organiser – Python workflow automation tool
-- Asset Report Generator – Python tool for scanning assets and generating reports
-- Unreal Interaction System – Unreal Engine Blueprint interaction system
-- Unreal Procedural Spawner – Unreal Engine procedural placement tool
+- **Project Structure Generator** – Python pipeline tool for creating project folder structures
+- **Unreal Asset Renamer** – Python tool for Unreal naming conventions
+- **Render Queue Tool** – Python automation tool for render workflows
+- **File Organiser** – Python workflow automation tool
+- **Asset Report Generator** – Python tool for scanning assets and generating reports
+- **Unreal Interaction System** – Unreal Engine Blueprint interaction system
+- **Unreal Procedural Spawner** – Unreal Engine procedural placement tool
+
+## Interests
+- Unreal Engine
+- Real-time workflows
+- Pipeline development
+- Automation tools
+- Technical Art
+- Immersive and interactive experiences
+- VFX and real-time pipelines
 
 ## Contact
 London, UK  
