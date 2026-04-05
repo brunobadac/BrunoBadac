@@ -26,7 +26,8 @@ Currently studying Software Development in the UK, focusing on Python, C++, and 
 - Project Structure Generator – Python pipeline tool for creating project folder structures
 - Unreal Asset Renamer – Python tool for Unreal naming conventions
 - Render Queue Tool – Python automation tool for render workflows
-- File Organiser – Python tool for automatic file organisation
+- File Organiser – Python workflow automation tool
+- Asset Report Generator – Python tool for scanning assets and generating reports
 - Unreal Interaction System – Unreal Engine Blueprint interaction system
 - Niagara Audio Reactive FX – Unreal Engine Niagara particle system
 
